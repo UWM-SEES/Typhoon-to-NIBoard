@@ -1,4 +1,6 @@
 (sym_lib_table
-  (version 0)
+  (version 7)
   (lib (name "HIL Breakout Board 3.3-altium-import")(type "KiCad")(uri "${KIPRJMOD}/HIL Breakout Board 3.3-altium-import.kicad_sym")(options "")(descr ""))
+  (lib (name "2-5174225-5")(type "KiCad")(uri "D:/2_5174225_5 (1)/2-5174225-5.kicad_sym")(options "")(descr ""))
+  (lib (name "ProjectSpecificFootprints")(type "KiCad")(uri "${KIPRJMOD}/ProjectSpecificFootprints/ProjectSpecificFootprints.kicad_sym")(options "")(descr ""))
 )
